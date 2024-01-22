@@ -1,4 +1,4 @@
-<h>🏎️ Formula Barton Racing 🏎️<h>
+<h align="center">🏎️ Formula Barton Racing 🏎️<h>
                                  
 🏁 We are Team Formula Barton Racing, participating in the Formula Bharat competition 🏁
 We build electric formula student cars
