@@ -3,4 +3,4 @@
 🏁 We are Team Formula Barton Racing 🏁<br>
 We build electric formula student cars<br>
 &emsp;First electric team from Kerala<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;GEC Barton Hill
+&emsp;&emsp;&emsp;&emsp;&emsp;GEC Barton Hill
