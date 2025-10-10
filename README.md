@@ -11,12 +11,8 @@ GEC Barton Hill
 
 ⚡ We innovate, design and build a Formula-style Electric Vehicle (EV) that blends performance, efficiency and sustainability.
 
-🌟 First-ever team from Kerala to register in the Electric Vehicle category of the Formula Bharat Racing Competition!
+🌟 First-ever team from Kerala to register in the Electric Vehicle category of the **Formula Bharat** competition!
 
-💡 We’ve conducted several awareness and outreach programs including:
-🔧 Technical workshops
-📢 Flagship events
-📄 Formula poster launches
 
 <img width="474" height="250" alt="chassis" src="https://github.com/user-attachments/assets/ddf465ee-d2ce-4cc4-bc06-3f0077772bc4" /><br>
 <img width="218" height="232" alt="image" src="https://github.com/user-attachments/assets/44aebebe-6343-44eb-bc6c-436078ff359e" />
