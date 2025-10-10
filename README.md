@@ -13,13 +13,14 @@ Govt. Engineering College, Barton Hill
 
 🌟 First-ever team from Kerala to register in the Electric Vehicle category of Formula Bharat — driving the future of student motorsport innovation.
 
-<img width="474" height="250" alt="chassis" src="https://github.com/user-attachments/assets/ddf465ee-d2ce-4cc4-bc06-3f0077772bc4" /><br>
 
 ## ⚙️ Vehicle Specifications
 
 A high-performance electric vehicle engineered for agility and power.
 
 ---
+<img width="474" height="250" alt="chassis" src="https://github.com/user-attachments/assets/ddf465ee-d2ce-4cc4-bc06-3f0077772bc4" /><br>
+
 
 ### 🧱 Chassis & Mass
 
@@ -42,24 +43,53 @@ Equipped with a **double wishbone suspension** on all corners for precise handli
 | **Wheelbase** | 1525 mm |
 | **Track Width** | 1150 mm |
 
----
+<h3>⚡ Powertrain</h3>
 
-### ⚡ Powertrain
+<p>
+Powered by a single <strong>Agni 119R</strong> brushed DC motor, managed by a 
+<strong>Kelly KDH12601E</strong> controller for efficient torque transfer.
+</p>
 
-Powered by a single **Agni 119R** brushed DC motor, managed by a **Kelly KDH12601E** controller for efficient torque transfer.
+<table>
+  <thead>
+    <tr>
+      <th>Component</th>
+      <th>Specification</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Motor</strong></td>
+      <td>Agni 119R (Brushed DC)</td>
+    </tr>
+    <tr>
+      <td><strong>Peak Power</strong></td>
+      <td>35 kW</td>
+    </tr>
+    <tr>
+      <td><strong>Peak Torque</strong></td>
+      <td>68 Nm</td>
+    </tr>
+    <tr>
+      <td><strong>Controller</strong></td>
+      <td>Kelly KDH12601E (600A Peak)</td>
+    </tr>
+    <tr>
+      <td><strong>Drivetrain</strong></td>
+      <td>Rear-Wheel Drive (RWD)</td>
+    </tr>
+    <tr>
+      <td><strong>Gear Ratio</strong></td>
+      <td>4.55:1</td>
+    </tr>
+  </tbody>
+</table>
 
-| Component | Specification |
-| :--- | :--- |
-| **Motor** | Agni 119R (Brushed DC) |
-| **Peak Power** | 35 kW |
-| **Peak Torque** | 68 Nm |
-| **Controller** | Kelly KDH12601E (600A Peak) |
-| **Drivetrain** | Rear-Wheel Drive (RWD) |
-| **Gear Ratio** | 4.55:1 |
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/44aebebe-6343-44eb-bc6c-436078ff359e" 
+       alt="Agni 119R Motor" width="150" />
+</p>
 
-<center><img width="110" height="116" alt="image" src="https://github.com/user-attachments/assets/44aebebe-6343-44eb-bc6c-436078ff359e" /></center>
-
----
 
 ### 🔋 High Voltage (HV) System
 
@@ -123,9 +153,9 @@ For sponsors, it offers a unique opportunity to connect with emerging engineers,
 <h2> 📩 Contact Us </h2>
 
 Email: formulabartonracing@gmail.com
- <br>
+ <br>
 LinkedIn: Formula Barton Racing
- <br>
+ <br>
 Instagram: @formulabartonracing
 
 #FormulaBartonRacing #GECBartonHill #FormulaBharat #EVRevolution #StudentMotorsport #InnovationInMotion
