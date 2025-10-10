@@ -47,6 +47,6 @@ Has collaboration with the Centre for Development of Advanced Computing (C-DAC) 
 #FormulaBartonRacing #GECBartonHill #FormulaBharat #EVRevolution #StudentMotorsport #InnovationInMotion
 
 <h2> Contact Us </h2>
-Email    : formulabartoracing@gmail.com
-LinkedIn : https://www.linkedin.com/company/formulabartonracing  
+Email    : formulabartoracing@gmail.com\n
+LinkedIn : https://www.linkedin.com/company/formulabartonracing\n  
 Instagram: https://www.instagram.com/formulabartonracing
