@@ -85,7 +85,7 @@ Powered by a single <strong>Agni 119R</strong> brushed DC motor, managed by a
   </tbody>
 </table>
 
-<p align="center">
+<p>
   <img src="https://github.com/user-attachments/assets/44aebebe-6343-44eb-bc6c-436078ff359e" 
        alt="Agni 119R Motor" width="150" />
 </p>
