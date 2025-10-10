@@ -21,6 +21,7 @@ GEC Barton Hill
 <img width="474" height="250" alt="chassis" src="https://github.com/user-attachments/assets/ddf465ee-d2ce-4cc4-bc06-3f0077772bc4" /><br>
 <img width="218" height="232" alt="image" src="https://github.com/user-attachments/assets/44aebebe-6343-44eb-bc6c-436078ff359e" />
 
+
 <h2> ⚙️ Technical Training & Social Outreach </h2>
 
 💡 We have organized a series of awareness and outreach initiatives to promote technical awareness and social responsibility:
@@ -47,6 +48,6 @@ Has collaboration with the Centre for Development of Advanced Computing (C-DAC) 
 #FormulaBartonRacing #GECBartonHill #FormulaBharat #EVRevolution #StudentMotorsport #InnovationInMotion
 
 <h2> Contact Us </h2>
-Email&nbsp;&nbsp;&nbsp;&nbsp;: formulabartoracing@gmail.com <br>
-LinkedIn&nbsp;&nbsp;: https://www.linkedin.com/company/formulabartonracing <br>
-Instagram&nbsp;: https://www.instagram.com/formulabartonracing
+Email&emsp;: formulabartonracing@gmail.com <br>
+LinkedIn&nbsp;: https://www.linkedin.com/company/formulabartonracing <br>
+Instagram: https://www.instagram.com/formulabartonracing
