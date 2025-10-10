@@ -44,7 +44,7 @@ Has collaboration with the Centre for Development of Advanced Computing (C-DAC) 
 
 #FormulaBartonRacing #GECBartonHill #FormulaBharat #EVRevolution #StudentMotorsport #InnovationInMotion
 
-<h2> Why Sponsor Us <h2>
+<h2> Why Sponsor Us </h2>h2>
 In the world of motorsports, Formula Bharat racing has emerged as a popular platform for young engineers to showcase their skills and compete at a national level. With the increasing popularity of this event, car sponsorship has become an essential component for teams to succeed.<br><br>
 Sponsors play a crucial role in providing financial support, technical expertise, and equipment necessary to build a winning Formula Bharat racing car. They help teams to cover expenses such as trave, race entry fees which can be prohibitively expensive for students. Additionally, sponsors provide access to industry experts who can guide teams on design and performance optimization, giving them a competitive edge.<br><br> Sponsorship engenders reciprocal benefits for both the team and the sponsor. On the team's part, sponsorship constitutes a valuable source of financial support, facilitates access to industry expertise, and affords exposure to cutting-edge technologies and materials. Conversely, for sponsors, backing an FSAE car project presents a distinctive opportunity to engage with the emerging cohort of engineers and strategically showcase their products and services to a discerningly targeted audience.<br>
 <h2> Contact Us </h2>
