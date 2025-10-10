@@ -14,7 +14,6 @@ Govt. Engineering College, Barton Hill
 🌟 First-ever team from Kerala to register in the Electric Vehicle category of Formula Bharat — driving the future of student motorsport innovation.
 
 <img width="474" height="250" alt="chassis" src="https://github.com/user-attachments/assets/ddf465ee-d2ce-4cc4-bc06-3f0077772bc4" /><br>
-<img width="110" height="116" alt="image" src="https://github.com/user-attachments/assets/44aebebe-6343-44eb-bc6c-436078ff359e" />
 
 ## ⚙️ Vehicle Specifications
 
@@ -57,6 +56,8 @@ Powered by a single **Agni 119R** brushed DC motor, managed by a **Kelly KDH1260
 | **Controller** | Kelly KDH12601E (600A Peak) |
 | **Drivetrain** | Rear-Wheel Drive (RWD) |
 | **Gear Ratio** | 4.55:1 |
+
+<center><img width="110" height="116" alt="image" src="https://github.com/user-attachments/assets/44aebebe-6343-44eb-bc6c-436078ff359e" /></center>
 
 ---
 
