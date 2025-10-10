@@ -18,7 +18,7 @@ GEC Barton Hill
 📢 Flagship events
 📄 Formula poster launches
 
-<img width="856" height="503" alt="image" src="https://github.com/user-attachments/assets/ddf465ee-d2ce-4cc4-bc06-3f0077772bc4" />
+<img width="475" height="250" alt="chassis" src="https://github.com/user-attachments/assets/ddf465ee-d2ce-4cc4-bc06-3f0077772bc4" />
 
 <h2> ⚙️ Technical Training & Social Outreach </h2>
 
