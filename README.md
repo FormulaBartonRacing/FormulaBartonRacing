@@ -17,6 +17,7 @@ GEC Barton Hill
 <img width="474" height="250" alt="chassis" src="https://github.com/user-attachments/assets/ddf465ee-d2ce-4cc4-bc06-3f0077772bc4" /><br>
 <img width="110" height="116" alt="image" src="https://github.com/user-attachments/assets/44aebebe-6343-44eb-bc6c-436078ff359e" />
 
+<br>The motor is a unique permanent magnet axial gap, brushed motor type called a Lynch motor. We use a single Agni 119R for RWD.
 
 <h2> ⚙️ Technical Training & Social Outreach </h2>
 
