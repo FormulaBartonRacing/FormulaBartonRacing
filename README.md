@@ -18,25 +18,25 @@ Govt. Engineering College, Barton Hill
 
 <h2> ⚙️ Vehicle Specifications </h2>
 
-Chassis & Mass
-• Lightweight AISI 4130 tubular space frame chassis for high strength and rigidity.
-• Overall mass: 240 kg (without driver) for agility and performance.
+🧱 Chassis & Mass
+• Frame: Lightweight AISI 4130 tubular space frame for superior strength and rigidity.
+• Mass: 240 kg (without driver) — optimized for agility and performance.
 
-Suspension
-• Double wishbone suspension on all corners for precise handling and stability.
+🛞 Suspension
+• Double wishbone setup on all corners for precise handling and stability.
 • Wheelbase: 1525 mm | Track width: 1150 mm
 
-Powertrain
-• Motor: Single Agni 119R brushed DC motor (35 kW peak, 68 Nm peak torque).
-• Gear ratio: 4.55:1 | Controller: Kelly KDH12601E (600A peak).
+⚡ Powertrain
+• Motor: Agni 119R brushed DC motor — 35 kW peak, 68 Nm peak torque.
+• Gear ratio: 4.55 : 1 | Controller: Kelly KDH12601E (600 A peak).
 • Drive type: Rear-Wheel Drive (RWD).
 
-High Voltage System (HV)
+🔋 High Voltage System (HV)
 • Battery: 6.6 kWh, 28s26p lithium-ion pack (100.8 V nominal), air-cooled.
-• Managed by a thermistor-based BMS ensuring safety and reliability.
+• BMS: Thermistor-based system for efficient monitoring and safety.
 
-Low Voltage System (LV)
-• Battery: 12V, 18Ah LFP pack powering auxiliary components.
+🔌 Low Voltage System (LV)
+• Battery: 12 V, 18 Ah LFP pack powering all auxiliary components.
 
 <h2> 🧠 Technical Training & Social Outreach </h2>
 
