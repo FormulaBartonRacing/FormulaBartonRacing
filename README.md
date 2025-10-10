@@ -18,6 +18,8 @@ GEC Barton Hill
 📢 Flagship events
 📄 Formula poster launches
 
+![chassis](https://drive.google.com/file/d/1zjKyBw2fJ60DklLf612uJXtjD52Hh5C-/view?usp=drive_link)
+
 <h2> ⚙️ Technical Training & Social Outreach </h2>
 
 💡 We have organized a series of awareness and outreach initiatives to promote technical awareness and social responsibility:
@@ -43,3 +45,7 @@ Has collaboration with the Centre for Development of Advanced Computing (C-DAC) 
 
 #FormulaBartonRacing #GECBartonHill #FormulaBharat #EVRevolution #StudentMotorsport #InnovationInMotion
 
+<h2> Contact Us </h2>
+Email    : formulabartoracing@gmail.com
+LinkedIn : https://www.linkedin.com/company/formulabartonracing  
+Instagram: https://www.instagram.com/formulabartonracing
