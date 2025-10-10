@@ -1,53 +1,84 @@
 <h1> 🏁🏎️ Formula Barton Racing 🏎️🏁 </h1>
-                                 
+
 🏁 We are Team Formula Barton Racing 🏁<br>
-We build electric formula student cars<br>
+We build electric Formula Student cars<br>
 First electric team from Kerala<br>
-GEC Barton Hill
+Govt. Engineering College, Barton Hill
 
-<h2> About Us </h2>
+<h2> 🔧 About Us </h2>
 
-👨‍🔧👩‍🔧 A passionate student motorsport team from Govt. Engineering College, Barton Hill — bringing together 30+ talented technical and non-technical members guided by 3 dedicated faculty advisors.
+👨‍🔧👩‍🔧 A passionate student motorsport team from Govt. Engineering College, Barton Hill (GECBH) — bringing together 30+ talented members across technical and management domains, guided by 3 dedicated faculty advisors.
 
-⚡ We innovate, design and build a Formula-style Electric Vehicle (EV) that blends performance, efficiency and sustainability.
+⚡ We design, innovate, and build a Formula-style Electric Vehicle (EV) that blends performance, efficiency, and sustainability.
 
-🌟 First-ever team from Kerala to register in the Electric Vehicle category of the **Formula Bharat** competition!
-
+🌟 First-ever team from Kerala to register in the Electric Vehicle category of Formula Bharat — driving the future of student motorsport innovation.
 
 <img width="474" height="250" alt="chassis" src="https://github.com/user-attachments/assets/ddf465ee-d2ce-4cc4-bc06-3f0077772bc4" /><br>
 <img width="110" height="116" alt="image" src="https://github.com/user-attachments/assets/44aebebe-6343-44eb-bc6c-436078ff359e" />
 
-<br>The motor is a unique permanent magnet axial gap, brushed motor type called a Lynch motor. We use a single Agni 119R for RWD.
+<h2> ⚙️ Vehicle Specifications </h2>
 
-<h2> ⚙️ Technical Training & Social Outreach </h2>
+Chassis & Mass
+• Lightweight AISI 4130 tubular space frame chassis for high strength and rigidity.
+• Overall mass: 240 kg (without driver) for agility and performance.
 
-💡 We have organized a series of awareness and outreach initiatives to promote technical awareness and social responsibility:
+Suspension
+• Double wishbone suspension on all corners for precise handling and stability.
+• Wheelbase: 1525 mm | Track width: 1150 mm
+
+Powertrain
+• Motor: Single Agni 119R brushed DC motor (35 kW peak, 68 Nm peak torque).
+• Gear ratio: 4.55:1 | Controller: Kelly KDH12601E (600A peak).
+• Drive type: Rear-Wheel Drive (RWD).
+
+High Voltage System (HV)
+• Battery: 6.6 kWh, 28s26p lithium-ion pack (100.8 V nominal), air-cooled.
+• Managed by a thermistor-based BMS ensuring safety and reliability.
+
+Low Voltage System (LV)
+• Battery: 12V, 18Ah LFP pack powering auxiliary components.
+
+<h2> 🧠 Technical Training & Social Outreach </h2>
+
+💡 We conduct awareness and outreach programs to promote technical learning and social responsibility:
 
 • Formula Poster Launches
-Shared engaging Formula 1 facts and insights to inspire curiosity and promote engineering awareness among students.
+Shared engaging Formula 1 facts to inspire curiosity and engineering awareness among students.
 
 • Technical Workshops
-Conducted hands-on training sessions on:
+Hands-on sessions on:
 
-* SolidWorks
-* ANSYS
-* KiCad
-* MATLAB
-  in collaboration with IEEE and ASME to strengthen core technical skills.
+SolidWorks
+
+ANSYS
+
+KiCad
+
+MATLAB
+Conducted in collaboration with IEEE and ASME to strengthen core technical skills.
 
 • Earth Hour Celebration 🌍
-Partnered with WWF to celebrate Earth Hour, to promote environmental awareness and sustainability among the community.
+Partnered with WWF to promote sustainability and environmental consciousness among the community.
 
 🤝 Collaborations
+Collaborated with Centre for Development of Advanced Computing (C-DAC) for knowledge exchange and technical enrichment initiatives.
 
-Has collaboration with the Centre for Development of Advanced Computing (C-DAC) for knowledge exchange and technical enrichment initiatives.
+<h2> 💼 Why Sponsor Us </h2>
+
+In the world of motorsports, Formula Bharat is a platform for young engineers to showcase innovation and compete at the national level.
+
+Sponsors play a crucial role by providing financial support, technical expertise, and resources needed to build a competitive car. They help cover expenses such as travel and race entry fees and offer access to industry experts who guide teams on design optimization and performance improvement.
+
+Mutual Benefits:
+For teams, sponsorship provides vital funding, access to technology, and exposure to real-world engineering practices.
+For sponsors, it offers a unique opportunity to connect with emerging engineers, promote their brand, and gain visibility in a highly engaged, technically adept audience.
+
+<h2> 📩 Contact Us </h2>
+
+Email: formulabartonracing@gmail.com
+ <br>
+LinkedIn: Formula Barton Racing
+ <br>
+Instagram: @formulabartonracing
 
 #FormulaBartonRacing #GECBartonHill #FormulaBharat #EVRevolution #StudentMotorsport #InnovationInMotion
-
-<h2> Why Sponsor Us </h2>
-In the world of motorsports, Formula Bharat racing has emerged as a popular platform for young engineers to showcase their skills and compete at a national level. With the increasing popularity of this event, car sponsorship has become an essential component for teams to succeed.<br><br>
-Sponsors play a crucial role in providing financial support, technical expertise, and equipment necessary to build a winning Formula Bharat racing car. They help teams to cover expenses such as trave, race entry fees which can be prohibitively expensive for students. Additionally, sponsors provide access to industry experts who can guide teams on design and performance optimization, giving them a competitive edge.<br><br> Sponsorship engenders reciprocal benefits for both the team and the sponsor. On the team's part, sponsorship constitutes a valuable source of financial support, facilitates access to industry expertise, and affords exposure to cutting-edge technologies and materials. Conversely, for sponsors, backing an FSAE car project presents a distinctive opportunity to engage with the emerging cohort of engineers and strategically showcase their products and services to a discerningly targeted audience.<br>
-<h2> Contact Us </h2>
-Email&emsp;&emsp;&nbsp;&nbsp;: formulabartonracing@gmail.com <br>
-LinkedIn&nbsp;&nbsp;&nbsp;&nbsp;: https://www.linkedin.com/company/formulabartonracing <br>
-Instagram&nbsp;: https://www.instagram.com/formulabartonracing
