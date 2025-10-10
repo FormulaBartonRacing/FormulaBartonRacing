@@ -16,27 +16,73 @@ Govt. Engineering College, Barton Hill
 <img width="474" height="250" alt="chassis" src="https://github.com/user-attachments/assets/ddf465ee-d2ce-4cc4-bc06-3f0077772bc4" /><br>
 <img width="110" height="116" alt="image" src="https://github.com/user-attachments/assets/44aebebe-6343-44eb-bc6c-436078ff359e" />
 
-<h2> ⚙️ Vehicle Specifications </h2>
+## ⚙️ Vehicle Specifications
 
-🧱 Chassis & Mass
-• Frame: Lightweight AISI 4130 tubular space frame for superior strength and rigidity.
-• Mass: 240 kg (without driver) — optimized for agility and performance.
+A high-performance electric vehicle engineered for agility and power.
 
-🛞 Suspension
-• Double wishbone setup on all corners for precise handling and stability.
-• Wheelbase: 1525 mm | Track width: 1150 mm
+---
 
-⚡ Powertrain
-• Motor: Agni 119R brushed DC motor — 35 kW peak, 68 Nm peak torque.
-• Gear ratio: 4.55 : 1 | Controller: Kelly KDH12601E (600 A peak).
-• Drive type: Rear-Wheel Drive (RWD).
+### 🧱 Chassis & Mass
 
-🔋 High Voltage System (HV)
-• Battery: 6.6 kWh, 28s26p lithium-ion pack (100.8 V nominal), air-cooled.
-• BMS: Thermistor-based system for efficient monitoring and safety.
+Built on a lightweight **AISI 4130 tubular space frame**, providing exceptional strength and rigidity.
 
-🔌 Low Voltage System (LV)
-• Battery: 12 V, 18 Ah LFP pack powering all auxiliary components.
+| Specification | Value |
+| :--- | :--- |
+| **Chassis Type** | AISI 4130 Tubular Space Frame |
+| **Vehicle Mass** | 240 kg (without driver) |
+
+---
+
+### 🛞 Suspension & Handling
+
+Equipped with a **double wishbone suspension** on all corners for precise handling and stability.
+
+| Specification | Value |
+| :--- | :--- |
+| **Suspension Type** | Double Wishbone (Front & Rear) |
+| **Wheelbase** | 1525 mm |
+| **Track Width** | 1150 mm |
+
+---
+
+### ⚡ Powertrain
+
+Powered by a single **Agni 119R** brushed DC motor, managed by a **Kelly KDH12601E** controller for efficient torque transfer.
+
+| Component | Specification |
+| :--- | :--- |
+| **Motor** | Agni 119R (Brushed DC) |
+| **Peak Power** | 35 kW |
+| **Peak Torque** | 68 Nm |
+| **Controller** | Kelly KDH12601E (600A Peak) |
+| **Drivetrain** | Rear-Wheel Drive (RWD) |
+| **Gear Ratio** | 4.55:1 |
+
+---
+
+### 🔋 High Voltage (HV) System
+
+A custom-built, air-cooled lithium-ion pack ensures reliable power delivery, monitored by a thermistor-based BMS for optimal safety.
+
+| Specification | Value |
+| :--- | :--- |
+| **Cell Chemistry** | Lithium-Ion |
+| **Configuration** | 28s26p |
+| **Nominal Voltage** | 100.8 V |
+| **Capacity** | 6.6 kWh |
+| **Cooling** | Air-cooled |
+
+---
+
+### 🔌 Low Voltage (LV) System
+
+Powers all auxiliary components and critical control systems.
+
+| Specification | Value |
+| :--- | :--- |
+| **Battery Type** | LFP (Lithium Iron Phosphate) |
+| **Voltage** | 12 V |
+| **Capacity** | 18 Ah |
 
 <h2> 🧠 Technical Training & Social Outreach </h2>
 
